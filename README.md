@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a second-year student at the University of Virginia studying Data Science.
 
 <!--
 **jac7az/jac7az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
